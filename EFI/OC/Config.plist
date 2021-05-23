@@ -105,11 +105,15 @@
 				<key>Enabled</key>
 				<false/>
 				<key>OemTableId</key>
-				<data>Q3B1UG0AAAA=</data>
+				<data>
+				Q3B1UG0AAAA=
+				</data>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>U1NEVA==</data>
+				<data>
+				U1NEVA==
+				</data>
 			</dict>
 			<dict>
 				<key>All</key>
@@ -119,11 +123,15 @@
 				<key>Enabled</key>
 				<false/>
 				<key>OemTableId</key>
-				<data>Q3B1MElzdAA=</data>
+				<data>
+				Q3B1MElzdAA=
+				</data>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>U1NEVA==</data>
+				<data>
+				U1NEVA==
+				</data>
 			</dict>
 		</array>
 		<key>Patch</key>
@@ -136,23 +144,31 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X09TSQ==</data>
+				<data>
+				X09TSQ==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>WE9TSQ==</data>
+				<data>
+				WE9TSQ==
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -162,23 +178,31 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1BUUwE=</data>
+				<data>
+				X1BUUwE=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>WlBUUwE=</data>
+				<data>
+				WlBUUwE=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -188,23 +212,31 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1dBSwk=</data>
+				<data>
+				X1dBSwk=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>WldBSwk=</data>
+				<data>
+				WldBSwk=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -214,23 +246,31 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>R1BSVwI=</data>
+				<data>
+				R1BSVwI=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>WFBSVwI=</data>
+				<data>
+				WFBSVwI=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -240,23 +280,31 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>RUNfX0hXQUM=</data>
+				<data>
+				RUNfX0hXQUM=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>RUNfX1hXQUM=</data>
+				<data>
+				RUNfX1hXQUM=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -314,6 +362,8 @@
 			<true/>
 			<key>EnableWriteUnprotector</key>
 			<false/>
+			<key>ForceBooterSignature</key>
+			<false/>
 			<key>ForceExitBootServices</key>
 			<false/>
 			<key>ProtectMemoryRegions</key>
@@ -348,29 +398,53 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>
+				AACbPg==
+				</data>
 				<key>device-id</key>
-				<data>mz4AAA==</data>
+				<data>
+				mz4AAA==
+				</data>
 				<key>enable-backlight-registers-fix</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>force-online</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-alldata</key>
-				<data>AQEJAAAIAACHAQAA</data>
+				<data>
+				AQEJAAAIAACHAQAA
+				</data>
 				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con2-alldata</key>
-				<data>AgIKAAAIAACHAQAA</data>
+				<data>
+				AgIKAAAIAACHAQAA
+				</data>
 				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
+				<data>
+				AACQAA==
+				</data>
 				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
+				<data>
+				AAAwAQ==
+				</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -887,9 +961,11 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data></data>
+			<data>
+			</data>
 			<key>Cpuid1Mask</key>
-			<data></data>
+			<data>
+			</data>
 			<key>DummyPowerManagement</key>
 			<false/>
 			<key>MaxKernel</key>
@@ -1044,9 +1120,11 @@
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
-			<data></data>
+			<data>
+			</data>
 			<key>PasswordSalt</key>
-			<data></data>
+			<data>
+			</data>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
@@ -1098,32 +1176,56 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
-			<dict>
-				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100</string>
-				<key>prev-lang:kbd</key>
-				<string></string>
-				<key>csr-active-config</key>
-				<data>/w8AAA==</data>
-				<key>run-efi-updater</key>
-				<string>No</string>
-			</dict>
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<dict>
+				<key>DefaultBackgroundColor</key>
+				<data>
+				AAAAAA==
+				</data>
 				<key>UIScale</key>
-				<data>AQ==</data>
+				<data>
+				AQ==
+				</data>
+			</dict>
+			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
+			<dict>
+				<key>rtc-blacklist</key>
+				<data>
+				</data>
+			</dict>
+			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+			<dict>
+				<key>SystemAudioVolume</key>
+				<data>
+				Rg==
+				</data>
+				<key>boot-args</key>
+				<string>keepsyms=1 debug=0x100</string>
+				<key>csr-active-config</key>
+				<data>
+				/w8AAA==
+				</data>
+				<key>prev-lang:kbd</key>
+				<data>
+				cnUtUlU6MjUy
+				</data>
+				<key>run-efi-updater</key>
+				<string>No</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict>
-			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
-			<array>
-				<string>boot-args</string>
-			</array>
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<array>
 				<string>UIScale</string>
+			</array>
+			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
+			<array>
+				<string>rtc-blacklist</string>
+			</array>
+			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
+			<array>
+				<string>boot-args</string>
 			</array>
 		</dict>
 		<key>LegacyEnable</key>
@@ -1132,14 +1234,6 @@
 		<false/>
 		<key>LegacySchema</key>
 		<dict>
-			<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
-			<array>
-				<string>Boot0080</string>
-				<string>Boot0081</string>
-				<string>Boot0082</string>
-				<string>BootNext</string>
-				<string>BootOrder</string>
-			</array>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<array>
 				<string>EFILoginHiDPI</string>
@@ -1153,6 +1247,14 @@
 				<string>fmm-computer-name</string>
 				<string>nvda_drv</string>
 				<string>prev-lang:kbd</string>
+			</array>
+			<key>8BE4DF61-93CA-11D2-AA0D-00E098032B8C</key>
+			<array>
+				<string>Boot0080</string>
+				<string>Boot0081</string>
+				<string>Boot0082</string>
+				<string>BootNext</string>
+				<string>BootOrder</string>
 			</array>
 		</dict>
 		<key>WriteFlash</key>
@@ -1168,14 +1270,16 @@
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
-			<key>MaxBIOSVersion</key>
-			<false/>
 			<key>MLB</key>
 			<string>C02009404QX00001F</string>
+			<key>MaxBIOSVersion</key>
+			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>atHQ+Vls</data>
+			<data>
+			atHQ+Vls
+			</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1214,6 +1318,21 @@
 			<integer>0</integer>
 			<key>MinVersion</key>
 			<integer>0</integer>
+		</dict>
+		<key>AppleInput</key>
+		<dict>
+			<key>AppleEvent</key>
+			<string>Builtin</string>
+			<key>CustomDelays</key>
+			<false/>
+			<key>KeyInitialDelay</key>
+			<integer>50</integer>
+			<key>KeySubsequentDelay</key>
+			<integer>5</integer>
+			<key>PointerSpeedDiv</key>
+			<integer>1</integer>
+			<key>PointerSpeedMul</key>
+			<integer>1</integer>
 		</dict>
 		<key>Audio</key>
 		<dict>
@@ -1337,12 +1456,18 @@
 			<false/>
 			<key>DisableSecurityPolicy</key>
 			<false/>
+			<key>EnableVectorAcceleration</key>
+			<true/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForgeUefiSupport</key>
+			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
 			<false/>
 			<key>ReleaseUsbOwnership</key>
 			<true/>
+			<key>ReloadOptionRoms</key>
+			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
 			<key>TscSyncTimeout</key>
