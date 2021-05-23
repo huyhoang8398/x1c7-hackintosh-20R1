@@ -24,22 +24,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Notebook Battery</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Path</key>
-				<string>SSDT-Battery.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>Path</key>
-				<string>SSDT-HWAC.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>plugin-type=1</string>
 				<key>Enabled</key>
 				<true/>
