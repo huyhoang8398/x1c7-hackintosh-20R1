@@ -95,7 +95,7 @@
 - [dortania/ `USB map` guide](https://dortania.github.io/OpenCore-Post-Install/usb/)
 - [WhateverGreen Intel HD Manual](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md)
 - `Configuration.pdf` and `Differences.pdf` in each `OpenCore` releases.
-- Additionally, references specific to the x1c6 are located in `docs/references/`
+- Additionally, references specific to the x1c7 are located in `docs/references/`
 
 * ### No seriously, please read those.
 </details>
