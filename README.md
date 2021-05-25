@@ -129,20 +129,19 @@
 | SSD       |  WDC PC SN730 SDBQNTY-512G-1001        | - |
 | Display   | 14.0" (355mm) FHD (1920x1080)   | -|
 | WWAN      | None | Unless needed in other OSes, disable at BIOS to save power
-| **Ports**        | 2x USB 3.1 Gen 1 (Right USB Always On) |
+| Ports       | 2x USB 3.1 Gen 1 (Right USB Always On) |
 |                  | 2x USB 3.1 Type-C Gen 2 / Thunderbolt 3 (Power Delivery and DisplayPort) [Max 5120x2880 @60Hz] |
 |                  | HDMI 1.4b (Max 4096x2160 @24Hz) |                 |
-| **Ethernet**     | via ThinkPad Ethernet Extension Adapter Gen 2: I219-LM Ethernet (vPro) |
-| **WLAN + BT**    | Intel Wireless-AC 9560, Wi-Fi 2x2 802.11ac + Bluetooth 5.0 |
-| **WWAN(optional)** | Nothing else supported, no adapters, nothing. Locked by BIOS |
-| **Display**      | 14.0" (355mm) HDR HD (1920 x 1080) |
-| **Camera**       | IR and HD720p camera with ThinkShutte. Chicony manufacturer |
-| **Audio**        | Realtek ALC3286 codec <br> Linux: ``Realtek ALC285``, layout 11, 21, 31 ; [@acidanthera/AppleALC > Supported codecs [Github]](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs) |
-| **Fingerprint reader** | ✔️ |
-| **NFC (optional)** | ✔️ |
+| Ethernet    | via ThinkPad Ethernet Extension Adapter Gen 2: I219-LM Ethernet (vPro) |
+| WLAN + BT    | Intel Wireless-AC 9560, Wi-Fi 2x2 802.11ac + Bluetooth 5.0 |
+| WWAN(optional) | Nothing else supported, no adapters, nothing. Locked by BIOS |
+| Camera       | IR and HD720p camera with ThinkShutte. Chicony manufacturer |
+| Audio       | Realtek ALC3286 codec <br> Linux: ``Realtek ALC285``, layout 11, 21, 31 ; [@acidanthera/AppleALC > Supported codecs [Github]](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs) |
+| Fingerprint reader | ✔️ |
+| NFC (optional) | ✔️ |
 
 
-- Refer to [/docs/references/](https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/references/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF) for possible stock ThinkPad X1 6th Gen configurations.
+- Refer to [/docs/references/](https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/references/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF) for possible stock ThinkPad X1 7th Gen configurations.
 
 </details> 
 
