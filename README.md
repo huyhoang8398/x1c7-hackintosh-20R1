@@ -53,7 +53,8 @@
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
 | WiFi                                       | ✅ | AirportIltwm  | -       |
-| Bluetooth                                  | ✅ | AirportIltwm  | -    |
+| Bluetooth                                  | ✅ | AirportIltwm, IntelBluetoothFirmware.kext and IntelBluetoothInjector.kext
+| ⚠️ audio input (e.g. of headset) is not working, see #3  |
 | Ethernet                                   | ✅ | `IntelMausi.kext` | -                  |
 | HDMI hotplug                               | ✅ |- | - |
 | USB 2.0, USB 3.0 | ✅ | -   | -     |
@@ -127,8 +128,19 @@
 | CPU       | [i5-10210U](https://ark.intel.com/content/www/us/en/ark/products/195436/intel-core-i5-10210u-processor-6m-cache-up-to-4-20-ghz.html) | - |
 | SSD       |  WDC PC SN730 SDBQNTY-512G-1001        | - |
 | Display   | 14.0" (355mm) FHD (1920x1080)   | -|
-| WiFi & BT | Intel Wireless-AC 9560, 802.11ac Dual Band 2x2 Wi-Fi + Bluetooth 5.1                          | -|
 | WWAN      | None | Unless needed in other OSes, disable at BIOS to save power
+| **Ports**        | 2x USB 3.1 Gen 1 (Right USB Always On) |
+|                  | 2x USB 3.1 Type-C Gen 2 / Thunderbolt 3 (Power Delivery and DisplayPort) [Max 5120x2880 @60Hz] |
+|                  | HDMI 1.4b (Max 4096x2160 @24Hz) |                 |
+| **Ethernet**     | via ThinkPad Ethernet Extension Adapter Gen 2: I219-LM Ethernet (vPro) |
+| **WLAN + BT**    | Intel Wireless-AC 9560, Wi-Fi 2x2 802.11ac + Bluetooth 5.0 |
+| **WWAN(optional)** | Nothing else supported, no adapters, nothing. Locked by BIOS |
+| **Display**      | 14.0" (355mm) HDR HD (1920 x 1080) |
+| **Camera**       | IR and HD720p camera with ThinkShutte. Chicony manufacturer |
+| **Audio**        | Realtek ALC3286 codec <br> Linux: ``Realtek ALC285``, layout 11, 21, 31 ; [@acidanthera/AppleALC > Supported codecs [Github]](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs) |
+| **Fingerprint reader** | ✔️ |
+| **NFC (optional)** | ✔️ |
+
 
 - Refer to [/docs/references/](https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/references/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF) for possible stock ThinkPad X1 6th Gen configurations.
 
