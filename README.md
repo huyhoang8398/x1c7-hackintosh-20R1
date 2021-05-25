@@ -2,7 +2,7 @@
 
 [![macOS](https://img.shields.io/badge/macOS-Big_Sur-yellow.svg)](https://www.apple.com/macos/big-sur/)
 [![version](https://img.shields.io/badge/11.2.3-yellow)](https://www.apple.com/newsroom/2020/11/macos-big-sur-is-here/)
-[![MODEL](https://img.shields.io/badge/Model-20KH*-blue)](https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/references/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF)
+[![MODEL](https://img.shields.io/badge/Model-20R1*-blue)](https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/references/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-green)](https://github.com/acidanthera/OpenCorePkg)
 
 <img align="right" src="https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/Images/preview.png" alt="x1c7 thinkpad hackintosh Bigsur" width="300">
