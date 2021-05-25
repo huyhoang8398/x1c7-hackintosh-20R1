@@ -5,6 +5,8 @@
 [![MODEL](https://img.shields.io/badge/Model-20KH*-blue)](https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/references/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.9-green)](https://github.com/acidanthera/OpenCorePkg)
 
+<img align="right" src="https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/Images/preview.png" alt="x1c7 thinkpad hackintosh Bigsur" width="300">
+
 ### Follow my website [dohoang.me](https://dohoang.me/)
 
 #### READ THE ENTIRE README.MD BEFORE YOU START.
@@ -25,6 +27,7 @@
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
 | Fingerprint Reader   | ❌ | `DISABLED` in BIOS to save power if not used in other OSes.   | Linux support was only recently added    |
 | Wireless WAN         | ❌ | `DISABLED` in BIOS to save power if not used in other OSes.   | Unable to investigate as I have no need and my model did not come with WWAN. |
+| Internal Microphone         | ❌ | `DISABLED` in BIOS to save power   | - |
 
 > ### Video and Audio
 | Feature                              | Status | Dependency          | Remarks                      |
