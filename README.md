@@ -53,8 +53,7 @@
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
 | WiFi                                       | ✅ | AirportIltwm  | -       |
-| Bluetooth                                  | ✅ | AirportIltwm, IntelBluetoothFirmware.kext and IntelBluetoothInjector.kext
-| ⚠️ audio input (e.g. of headset) is not working, see #3  |
+| Bluetooth                                  | ✅ | AirportIltwm, IntelBluetoothFirmware.kext and IntelBluetoothInjector.kext | ⚠️ audio input (e.g. of headset) is not working 
 | Ethernet                                   | ✅ | `IntelMausi.kext` | -                  |
 | HDMI hotplug                               | ✅ |- | - |
 | USB 2.0, USB 3.0 | ✅ | -   | -     |
