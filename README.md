@@ -41,7 +41,7 @@
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
 | Battery Percentage Indication | ✅    | `SSDT-Battery.aml` and `/patches/OpenCore Patches/Battery.plist`             | 
-| CPU Power Management (SpeedShift)    | ❌     | - | Implement soon
+| CPU Power Management (SpeedShift)    |    ✅  | CPUFriend.kext with CPUFriendFriend | idle at 800mhz
 | iGPU Power Management        | ✅ | `XCPM`, enabled by `SSDT-PLUG.aml`                   | 
 | NVMe Drive Battery Management | ✅     | `NVMeFix.kext`  | In my experience, NVMe drives will drain more power than SATA drives.           |
 | S3 Sleep/ Hibernation Mode 3 | ✅ | `SSDT-SLPWAK.aml` | |
