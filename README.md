@@ -11,6 +11,8 @@
 
 #### READ THE ENTIRE README.MD BEFORE YOU START.
 
+This template is Forked from Tyler Nguyen's repo x1c6-hackintosh
+
 #### I am not responsible for any damages you may cause.
 
 ### Should you find an error, or improve anything, be it in the config itself or in the my documentation, please consider opening an issue or a pull request to contribute.
