@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github.com/huyhoang8398/x1c7-hackintosh-20r1/blob/master/docs/Images/preview.png" alt="x1c7 thinkpad hackintosh Bigsur" width="300">
 
-### Follow my website [dohoang.me](https://dohoang.me/)
+### Follow my website [dohoang.me](https://huyhoang8398.github.io/)
 
 #### READ THE ENTIRE README.MD BEFORE YOU START.
 
@@ -159,7 +159,7 @@ Before you do anything, please familiarize yourself with basic Hackintosh termin
 
 > ## CONTACT
 
-https://dohoang.me
+https://huyhoang8398.github.io
 
 > ## SUPPORT
 
